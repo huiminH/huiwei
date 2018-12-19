@@ -1,0 +1,14 @@
+{
+    "brand":{
+        "list":[
+            {"id":"brand1","src":"image/brand1.png","p1":"荣耀10","p2":"限时优惠500 积分翻倍","p3":"￥2199","span":"爆款"},
+            {"id":"brand2","src":"image/brand2.png","p1":"荣耀10","p2":"限时优惠500 积分翻倍","p3":"￥2199","span":"爆款"},
+            {"id":"brand3","src":"image/brand3.png","p1":"荣耀10","p2":"限时优惠500 积分翻倍","p3":"￥2199","span":"新品"},
+            {"id":"brand4","src":"image/brand4.png","p1":"荣耀10","p2":"限时优惠500 积分翻倍","p3":"￥2199","span":"爆款"},
+            {"id":"brand5","src":"image/brand5.png","p1":"荣耀10","p2":"限时优惠500 积分翻倍","p3":"￥2199","span":"热卖"},
+            {"id":"brand6","src":"image/brand6.png","p1":"荣耀10","p2":"限时优惠500 积分翻倍","p3":"￥2199","span":"新品"},
+            {"id":"brand7","src":"image/brand7.png","p1":"荣耀10","p2":"限时优惠500 积分翻倍","p3":"￥2199","span":"热卖"},
+            {"id":"brand8","src":"image/brand8.png","p1":"荣耀10","p2":"限时优惠500 积分翻倍","p3":"￥2199","span":"爆款"}
+        ]
+    }
+}

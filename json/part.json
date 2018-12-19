@@ -1,0 +1,12 @@
+{
+    "part":{
+        "list":[
+            {"id":"part1","src":"image/part1.png","p1":"赠充电底座&nbsp;","p2":"HUAWEI WATCH 2","p3":"￥1999","span":"新品"},
+            {"id":"part2","src":"image/part2.png","p1":"赠充电底座&nbsp;","p2":"HUAWEI WATCH 2","p3":"￥1999","span":"新品"},
+            {"id":"part3","src":"image/part3.png","p1":"赠充电底座&nbsp;","p2":"HUAWEI WATCH 2","p3":"￥1999","span":"新品"},
+            {"id":"part4","src":"image/part4.png","p1":"赠充电底座&nbsp;","p2":"HUAWEI WATCH 2","p3":"￥1999","span":"新品"},
+            {"id":"part5","src":"image/part5.png","p1":"赠充电底座&nbsp;","p2":"HUAWEI WATCH 2","p3":"￥1999","span":"新品"},
+            {"id":"part6","src":"image/part6.png","p1":"赠充电底座&nbsp;","p2":"HUAWEI WATCH 2","p3":"￥1999","span":"新品"}   
+        ]
+    }
+}
